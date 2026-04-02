@@ -1,0 +1,17 @@
+# Laravel & System ignores
+ecommerce10/vendor/
+ecommerce10/node_modules/
+ecommerce10/public/storage
+ecommerce10/storage/*.key
+ecommerce10/.env
+.phpunit.result.cache
+
+# Binary and Large files
+*.zip
+*.rar
+*.gz
+*.tar
+*.7z
+*.sql
+*.exe
+*.log
